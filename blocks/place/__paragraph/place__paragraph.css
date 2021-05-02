@@ -1,0 +1,15 @@
+.place__paragraph{
+    display: block;
+    font-family: Inter,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 1.63;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 26px 0 0 0;
+}
+
+.place__paragraph:first-child{
+    padding-top: 0;
+}

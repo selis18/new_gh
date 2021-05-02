@@ -1,0 +1,12 @@
+.cover{
+    display: flex;
+    position: relative;
+    max-width: 96vh;
+    height: 740px;
+    padding: 0;
+    margin: 0 auto 92px 0;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
